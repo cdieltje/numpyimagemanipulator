@@ -8,8 +8,8 @@ Necessary packages for the program numpy_image_manipulator:
 - matplotlib Version 3.8.0
 - os Version
 - PIl Version
-- Opencv Version 4.6.0 => to delete if I don't use cv2
-- scipy Version 1.11.4 => TO DELETE
+
+
 
 
 Github repository: https://github.com/cdieltje/numpyimagemanipulator
