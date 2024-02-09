@@ -10,6 +10,7 @@ Necessary data:
 - an example image in .png format is available /data/input/image_raw.png
 - other images could be used if named as 'image_raw.png' or if naming will be changed in code 
 - no other data than the image is needed to run Jupyter Notebooks
+- for some functionalities user input will be asked
 
 Necessary packages for the program numpy_image_manipulator:
 - numpy Version 1.26.3
