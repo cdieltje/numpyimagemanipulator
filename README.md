@@ -1,6 +1,7 @@
 # numpyimagemanipulator
 Assignment: Setting Up Project and Developing a Production Simulation Program
 
+
 Necessary packages for the program numpy_image_manipulator:
 - numpy Version 1.26.3
 - numpy-base Version 1.26.3
