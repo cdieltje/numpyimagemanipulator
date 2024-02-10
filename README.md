@@ -18,6 +18,7 @@ See image_manipulator.yml for a full list of environment, amongst others:
 - notebook (Jupyter Notebook) Version 6.5.4
 - matplotlib Version 3.8.0
 - os Version
+- PIL
 
 Github repository:
 https://github.com/cdieltje/numpyimagemanipulator
