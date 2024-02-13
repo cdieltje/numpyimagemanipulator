@@ -2,11 +2,9 @@
 Assignment: Setting Up Project and Developing a Production Simulation Program
 
 With this project you can perform the following tasks concerning an image:
-- Jupyter Notebook with manipulation of image: multiplying, flipping and colouring images 
+- Jupyter Notebook with manipulations of image: multiplying, flipping and colouring images. These are one-offs, without generalisation functions. 
 - Jupyter Notebook with Generalisation function of image manipulations
-Each block contains all functions for every of the three manipulations.
-Each block can run separate from the other blocks, apart from the first block where the image is loaded.
-
+Each function can be applied to different images, and with different counts of rows and columns. 
 
 Necessary data:
 - an image is needed in order to run the Jupyter Notebooks, an example is available: /data/input/image_raw.png
