@@ -1,9 +1,11 @@
-# numpyimagemanipulator
-Assignment: Setting Up Project and Developing a Production Simulation Program
+Image manipulator
 
-With this project you can perform the following tasks concerning an image:
-- Jupyter Notebook with manipulations of image: multiplying, flipping and colouring images. These are one-offs, without generalisation functions. 
-- Jupyter Notebook with Generalisation function of image manipulations
+With this project you can perform different image manipulations.
+The project is divide into two notebooks:
+- image_manipulations.ipynb: manipulations of image: multiplying, flipping and colouring images. These are one-offs, without generalisation functions. 
+- image_manipulation_functions.ipynb: Generalisation functionsof image manipulations: image multiplication, grid with flips, colourful grid, grid with degrading colours, blurrer
+
+Each notebook starts with the loading of an image.
 Each function can be applied to different images, and with different counts of rows and columns. 
 
 Necessary data:
