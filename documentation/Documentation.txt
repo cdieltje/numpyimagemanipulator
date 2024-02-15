@@ -1,0 +1,6 @@
+Documentation:
+
+Consult the following information:
+- README.md: description of general goals and overview of the project
+- yml/image_manipulator.yml: overview of set up of Python packages
+- Github repository that contains all code and data: https://github.com/cdieltje/numpyimagemanipulator

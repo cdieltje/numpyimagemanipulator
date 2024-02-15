@@ -1,20 +1,23 @@
-Image manipulator
+Image Manipulator
 
-With this project you can perform different image manipulations.
-The project is divide into two notebooks:
-- image_manipulations.ipynb: manipulations of image: multiplying, flipping and colouring images. These are one-offs, without generalisation functions. 
-- image_manipulation_functions.ipynb: Generalisation functionsof image manipulations: image multiplication, grid with flips, colourful grid, grid with degrading colours, blurrer
+Goal of the Image Manipulator program:
+- With this project you can perform different image manipulations, using Python program.
+
+The program is divided into two parts:
+1/ directory notebooks/:
+    - image_manipulations.ipynb: manipulations of image: multiplying images in a grid, flipping and colouring images in a grid around a central larger image. These are one-offs, without generalisation functions. 
+2/ directory scripts/:
+    - image_manipulation_functions.ipynb: Generalising functions of image manipulations: image multiplication, grid with flips, colourful grid around a central larger image, grid with degrading colours, image blurrer. For ease of use, the different functions are added into one notebook
 
 Each notebook starts with the loading of an image.
 Each function can be applied to different images, and with different counts of rows and columns. 
 
 Necessary data:
 - an image is needed in order to run the Jupyter Notebooks, an example is available: /data/input/image_raw.png
-- other images could be used if named as 'image_raw.png' or if naming will be changed in code 
+- other images could be used if named as 'image_raw.png' or if naming is changed in code 
 - no other data than an image is needed
-- for some functionalities user input will be asked
 
-Necessary packages:
+Necessary Python packages:
 See image_manipulator.yml for a full list of environment, amongst others:
 - numpy Version 1.26.3
 - numpy-base Version 1.26.3
@@ -23,8 +26,8 @@ See image_manipulator.yml for a full list of environment, amongst others:
 - os Version
 - PIL
 
-Github repository:
-https://github.com/cdieltje/numpyimagemanipulator
+Github repository contains all necessary info:
+- https://github.com/cdieltje/numpyimagemanipulator
 
 
 
